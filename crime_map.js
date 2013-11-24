@@ -19,4 +19,4 @@ function initialize() {
 	  //maxIntensity: 500
 	});
 	heatmap.setMap(map);
-}
+}   
